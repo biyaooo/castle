@@ -17,7 +17,6 @@ public class Game {
     {
         Room outside, lobby, pub, study, bedroom;
 	//git commit1 test
-        // git commit1 test
         //	制造房间
         outside = new Room("城堡外");
         lobby = new Room("大堂");
