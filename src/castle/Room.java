@@ -2,6 +2,8 @@ package castle;
 
 import java.util.HashMap;
 
+//This is a feature branch
+
 public class Room {
     private String description;
     private HashMap<String,Room> exits = new HashMap<String,Room>();
