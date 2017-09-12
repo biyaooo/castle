@@ -104,5 +104,5 @@ public class Game {
         System.out.println("感谢您的光临。再见！");
         in.close();
 	}
-
+//This is a feature tag
 }
